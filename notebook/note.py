@@ -1,5 +1,4 @@
-# chat gpt
-#  tahgigh uml
+
 class note:
     def __init__(self,memo:str,tag:str = ""):
         self.memo = memo
@@ -13,7 +12,6 @@ class note:
 
    
 
-    # def __str__(self) -> str:
-    #     return self.memo
+  
 
 
